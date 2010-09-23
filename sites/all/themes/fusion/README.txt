@@ -1,5 +1,6 @@
 WHERE TO START
---------------
+tat=rt here
+-------------
 
 Welcome to Fusion! Most of Fusion's documentation lives on the web, but we'll 
 give you a quick overview here and point to the most important resources.
